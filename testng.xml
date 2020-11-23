@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+
+	<!-- Web Test Cases -->
+
+<!--	<test name="Web Chrome Test Case 1">-->
+<!--		<parameter name="browser" value="chrome" />-->
+<!--		<classes>-->
+<!--			<class name="tests.web.TestCase1"></class>-->
+<!--		</classes>-->
+<!--	</test>-->
+<!--	<test name="Web Firefox Test Case 1">-->
+<!--		<parameter name="browser" value="firefox" />-->
+<!--		<classes>-->
+<!--			<class name="tests.web.TestCase1"></class>-->
+<!--		</classes>-->
+<!--	</test>-->
+
+	<test name="Web Chrome Test Case 1 and Test Case 2">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="runners.ChromeWebRunner"></class>
+		</classes>
+	</test>
+
+	<test name="Web Firefox Test Case 1 and Test Case 2">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="runners.FirefoxWebRunner"></class>
+		</classes>
+	</test>
+
+
+
+	<!-- Mobile Test Cases -->
+
+	<test name="Mobile Chrome Test Case 1">
+		<parameter name="browser" value="mobileChrome" />
+		<classes>
+			<class name="tests.mobile.MobileTestCase1"></class>
+		</classes>
+	</test>
+	<test name="Mobile Chrome Test Case 2">
+		<parameter name="browser" value="mobileChrome" />
+		<classes>
+			<class name="tests.mobile.MobileTestCase2"></class>
+		</classes>
+	</test>
+	<test name="Mobile Firefox Test Case 1">
+		<parameter name="browser" value="mobileFirefox" />
+		<classes>
+			<class name="tests.mobile.MobileTestCase1"></class>
+		</classes>
+	</test>
+	<test name="Mobile Firefox Test Case 2">
+		<parameter name="browser" value="mobileFirefox" />
+		<classes>
+			<class name="tests.mobile.MobileTestCase2"></class>
+		</classes>
+	</test>
+
+
+</suite> <!-- Suite -->
