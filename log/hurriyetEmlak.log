@@ -7544,3 +7544,395 @@
 2020-11-21 22:19:10 INFO  AdListPage:59 - By.xpath: //button[contains(@class,'owner-phone-numbers-button')]/span[contains(text(),'Telefon')] elementi bulundu.
 2020-11-21 22:19:11 INFO  AdListPage:105 - By.xpath: //button[contains(@class,'owner-phone-numbers-button')]/span[contains(text(),'Telefon')] elementine JS ile tıklandı.
 2020-11-21 22:19:11 INFO  AdListPage:105 - By.xpath: //button[contains(@class,'owner-phone-numbers-button')]/span[contains(text(),'Telefon')] elementine JS ile tıklandı.
+2020-11-23 21:16:02 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:16:07 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:16:08 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[1] elementine tıklandı.
+2020-11-23 21:16:09 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[1] elementine tıklandı.
+2020-11-23 21:16:13 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:16:13 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:16:14 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine İzmir yazıldı.
+2020-11-23 21:16:14 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine İzmir yazıldı.
+2020-11-23 21:16:14 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementi bulundu.
+2020-11-23 21:16:14 INFO  AdListPage:105 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementine JS ile tıklandı.
+2020-11-23 21:16:14 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementi bulundu.
+2020-11-23 21:16:14 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:16:15 INFO  AdListPage:105 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementine JS ile tıklandı.
+2020-11-23 21:16:15 INFO  AdListPage:105 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:16:15 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:16:15 INFO  AdListPage:105 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:16:15 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Bornova yazıldı.
+2020-11-23 21:16:15 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Bornova yazıldı.
+2020-11-23 21:16:15 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementi bulundu.
+2020-11-23 21:16:15 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementi bulundu.
+2020-11-23 21:16:15 INFO  AdListPage:105 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementine JS ile tıklandı.
+2020-11-23 21:16:15 INFO  AdListPage:105 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementine JS ile tıklandı.
+2020-11-23 21:16:16 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementi bulundu.
+2020-11-23 21:16:16 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementi bulundu.
+2020-11-23 21:16:16 INFO  AdListPage:105 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementine JS ile tıklandı.
+2020-11-23 21:16:16 INFO  AdListPage:105 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementine JS ile tıklandı.
+2020-11-23 21:16:18 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMin')] elementi bulundu.
+2020-11-23 21:16:18 INFO  AdListPage:105 - By.xpath: //input[contains(@class,'priceMin')] elementine JS ile tıklandı.
+2020-11-23 21:16:18 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMin')] elementi bulundu.
+2020-11-23 21:16:21 INFO  AdListPage:74 - By.xpath: //input[contains(@class,'priceMin')] elementine 100000 yazıldı.
+2020-11-23 21:16:21 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:16:21 INFO  AdListPage:105 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:16:21 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:16:21 INFO  AdListPage:105 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:16:23 INFO  AdListPage:74 - By.xpath: //input[contains(@class,'priceMax')] elementine 2000000 yazıldı.
+2020-11-23 21:16:23 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:16:24 INFO  AdListPage:105 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:16:24 INFO  AdListPage:59 - By.xpath: //div[@class='c-title' and contains(text(),'Bina Yaşı Seçiniz')] elementi bulundu.
+2020-11-23 21:16:24 INFO  AdListPage:105 - By.xpath: //div[@class='c-title' and contains(text(),'Bina Yaşı Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:16:24 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'Sıfır Bina')] elementi bulundu.
+2020-11-23 21:16:24 INFO  AdListPage:105 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'Sıfır Bina')] elementine JS ile tıklandı.
+2020-11-23 21:16:24 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'1-5')] elementi bulundu.
+2020-11-23 21:16:24 INFO  AdListPage:105 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'1-5')] elementine JS ile tıklandı.
+2020-11-23 21:16:25 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'6-10')] elementi bulundu.
+2020-11-23 21:16:25 INFO  AdListPage:105 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'6-10')] elementine JS ile tıklandı.
+2020-11-23 21:16:25 INFO  AdListPage:59 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementi bulundu.
+2020-11-23 21:16:27 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:16:27 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[3] elementine tıklandı.
+2020-11-23 21:16:29 INFO  AdListPage:105 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementine JS ile tıklandı.
+2020-11-23 21:16:29 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/input[@id='main-category1'] elementi bulundu.
+2020-11-23 21:16:29 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMin')] elementi bulundu.
+2020-11-23 21:16:29 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:16:29 INFO  AdListPage:59 - By.xpath: //span[contains(@class,'c-item-val')] elementi bulundu.
+2020-11-23 21:16:29 INFO  AdListPage:105 - By.xpath: //span[contains(@class,'c-item-val')] elementine JS ile tıklandı.
+2020-11-23 21:16:31 INFO  AdListPage:59 - By.xpath: //li[1]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:16:31 INFO  AdListPage:59 - By.xpath: //li[2]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:16:31 INFO  AdListPage:59 - By.xpath: //li[3]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:16:31 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:16:32 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine Ankara yazıldı.
+2020-11-23 21:16:32 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementi bulundu.
+2020-11-23 21:16:32 INFO  AdListPage:105 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementine JS ile tıklandı.
+2020-11-23 21:16:32 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:16:33 INFO  AdListPage:105 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:16:33 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Çankaya yazıldı.
+2020-11-23 21:16:33 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementi bulundu.
+2020-11-23 21:16:33 INFO  AdListPage:105 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementine JS ile tıklandı.
+2020-11-23 21:16:33 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementi bulundu.
+2020-11-23 21:16:34 INFO  AdListPage:105 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementine JS ile tıklandı.
+2020-11-23 21:16:35 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:16:35 INFO  AdListPage:59 - By.xpath: //div[@class='c-title' and contains(text(),'Oda Seçiniz')] elementi bulundu.
+2020-11-23 21:16:35 INFO  AdListPage:105 - By.xpath: //div[@class='c-title' and contains(text(),'Oda Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:16:36 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[3] elementine tıklandı.
+2020-11-23 21:16:41 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:16:41 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine Ankara yazıldı.
+2020-11-23 21:16:41 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementi bulundu.
+2020-11-23 21:16:41 INFO  AdListPage:105 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementine JS ile tıklandı.
+2020-11-23 21:16:42 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:16:42 INFO  AdListPage:105 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:16:42 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Çankaya yazıldı.
+2020-11-23 21:16:42 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementi bulundu.
+2020-11-23 21:16:42 INFO  AdListPage:105 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementine JS ile tıklandı.
+2020-11-23 21:16:43 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementi bulundu.
+2020-11-23 21:16:43 INFO  AdListPage:105 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementine JS ile tıklandı.
+2020-11-23 21:16:46 INFO  AdListPage:59 - By.xpath: //div[@class='c-title' and contains(text(),'Oda Seçiniz')] elementi bulundu.
+2020-11-23 21:18:30 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:18:31 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:18:31 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[1] elementine tıklandı.
+2020-11-23 21:18:32 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[1] elementine tıklandı.
+2020-11-23 21:18:35 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:18:36 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine İzmir yazıldı.
+2020-11-23 21:18:36 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:18:36 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementi bulundu.
+2020-11-23 21:18:36 INFO  AdListPage:104 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementine JS ile tıklandı.
+2020-11-23 21:18:36 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:18:36 INFO  AdListPage:104 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:18:36 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine İzmir yazıldı.
+2020-11-23 21:18:37 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementi bulundu.
+2020-11-23 21:18:37 INFO  AdListPage:104 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'İzmir')] elementine JS ile tıklandı.
+2020-11-23 21:18:37 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Bornova yazıldı.
+2020-11-23 21:18:37 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:18:37 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementi bulundu.
+2020-11-23 21:18:37 INFO  AdListPage:104 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:18:37 INFO  AdListPage:104 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementine JS ile tıklandı.
+2020-11-23 21:18:37 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Bornova yazıldı.
+2020-11-23 21:18:37 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementi bulundu.
+2020-11-23 21:18:37 INFO  AdListPage:104 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementine JS ile tıklandı.
+2020-11-23 21:18:38 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementi bulundu.
+2020-11-23 21:18:38 INFO  AdListPage:104 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Bornova')] elementine JS ile tıklandı.
+2020-11-23 21:18:38 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementi bulundu.
+2020-11-23 21:18:38 INFO  AdListPage:104 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementine JS ile tıklandı.
+2020-11-23 21:18:41 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMin')] elementi bulundu.
+2020-11-23 21:18:41 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMin')] elementine JS ile tıklandı.
+2020-11-23 21:18:41 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMin')] elementi bulundu.
+2020-11-23 21:18:41 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMin')] elementine JS ile tıklandı.
+2020-11-23 21:18:43 INFO  AdListPage:74 - By.xpath: //input[contains(@class,'priceMin')] elementine 100000 yazıldı.
+2020-11-23 21:18:43 INFO  AdListPage:74 - By.xpath: //input[contains(@class,'priceMin')] elementine 100000 yazıldı.
+2020-11-23 21:18:43 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:43 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:18:43 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:43 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:43 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:18:43 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:18:43 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:43 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:18:45 INFO  AdListPage:74 - By.xpath: //input[contains(@class,'priceMax')] elementine 2000000 yazıldı.
+2020-11-23 21:18:45 INFO  AdListPage:74 - By.xpath: //input[contains(@class,'priceMax')] elementine 2000000 yazıldı.
+2020-11-23 21:18:45 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:45 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:18:45 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:45 INFO  AdListPage:104 - By.xpath: //input[contains(@class,'priceMax')] elementine JS ile tıklandı.
+2020-11-23 21:18:45 INFO  AdListPage:59 - By.xpath: //div[@class='c-title' and contains(text(),'Bina Yaşı Seçiniz')] elementi bulundu.
+2020-11-23 21:18:45 INFO  AdListPage:59 - By.xpath: //div[@class='c-title' and contains(text(),'Bina Yaşı Seçiniz')] elementi bulundu.
+2020-11-23 21:18:45 INFO  AdListPage:104 - By.xpath: //div[@class='c-title' and contains(text(),'Bina Yaşı Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:18:45 INFO  AdListPage:104 - By.xpath: //div[@class='c-title' and contains(text(),'Bina Yaşı Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:18:45 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'Sıfır Bina')] elementi bulundu.
+2020-11-23 21:18:45 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'Sıfır Bina')] elementi bulundu.
+2020-11-23 21:18:45 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'Sıfır Bina')] elementine JS ile tıklandı.
+2020-11-23 21:18:45 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'Sıfır Bina')] elementine JS ile tıklandı.
+2020-11-23 21:18:46 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'1-5')] elementi bulundu.
+2020-11-23 21:18:46 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'1-5')] elementine JS ile tıklandı.
+2020-11-23 21:18:46 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'6-10')] elementi bulundu.
+2020-11-23 21:18:46 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'6-10')] elementine JS ile tıklandı.
+2020-11-23 21:18:46 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'1-5')] elementi bulundu.
+2020-11-23 21:18:46 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'1-5')] elementine JS ile tıklandı.
+2020-11-23 21:18:46 INFO  AdListPage:59 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementi bulundu.
+2020-11-23 21:18:46 INFO  AdListPage:104 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementine JS ile tıklandı.
+2020-11-23 21:18:46 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'6-10')] elementi bulundu.
+2020-11-23 21:18:46 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'6-10')] elementine JS ile tıklandı.
+2020-11-23 21:18:46 INFO  AdListPage:59 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementi bulundu.
+2020-11-23 21:18:46 INFO  AdListPage:104 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementine JS ile tıklandı.
+2020-11-23 21:18:46 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/input[@id='main-category1'] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMin')] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:59 - By.xpath: //span[contains(@class,'c-item-val')] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:104 - By.xpath: //span[contains(@class,'c-item-val')] elementine JS ile tıklandı.
+2020-11-23 21:18:47 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/input[@id='main-category1'] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMin')] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:59 - By.xpath: //input[contains(@class,'priceMax')] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:59 - By.xpath: //span[contains(@class,'c-item-val')] elementi bulundu.
+2020-11-23 21:18:47 INFO  AdListPage:104 - By.xpath: //span[contains(@class,'c-item-val')] elementine JS ile tıklandı.
+2020-11-23 21:18:49 INFO  AdListPage:59 - By.xpath: //li[1]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:18:49 INFO  AdListPage:59 - By.xpath: //li[2]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:18:49 INFO  AdListPage:59 - By.xpath: //li[3]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:18:50 INFO  AdListPage:59 - By.xpath: //li[1]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:18:50 INFO  AdListPage:59 - By.xpath: //li[2]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:18:50 INFO  AdListPage:59 - By.xpath: //li[3]//label[@class='md-checkbox']/input elementi bulundu.
+2020-11-23 21:18:53 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:18:53 INFO  HomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:18:54 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[3] elementine tıklandı.
+2020-11-23 21:18:55 INFO  HomePage:96 - By.xpath: //ul[contains(@class,'search-title-tab-list')]/li[3] elementine tıklandı.
+2020-11-23 21:18:57 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:18:58 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine Ankara yazıldı.
+2020-11-23 21:18:58 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementi bulundu.
+2020-11-23 21:18:58 INFO  AdListPage:104 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementine JS ile tıklandı.
+2020-11-23 21:18:58 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:18:58 INFO  AdListPage:96 - By.xpath: //div[@class='he-filter-control he-select js-city-filter'] elementine tıklandı.
+2020-11-23 21:18:58 INFO  AdListPage:104 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:18:58 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Çankaya yazıldı.
+2020-11-23 21:18:59 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementi bulundu.
+2020-11-23 21:18:59 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İl Ara'] elementine Ankara yazıldı.
+2020-11-23 21:18:59 INFO  AdListPage:104 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementine JS ile tıklandı.
+2020-11-23 21:18:59 INFO  AdListPage:59 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementi bulundu.
+2020-11-23 21:18:59 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementi bulundu.
+2020-11-23 21:18:59 INFO  AdListPage:104 - By.xpath: //li[@class='he-select__list-item']/span[contains(text(),'Ankara')] elementine JS ile tıklandı.
+2020-11-23 21:18:59 INFO  AdListPage:104 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementine JS ile tıklandı.
+2020-11-23 21:18:59 INFO  AdListPage:59 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementi bulundu.
+2020-11-23 21:18:59 INFO  AdListPage:104 - By.xpath: //div[@class='he-select-base']//span[contains(text(),'İlçe Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:18:59 INFO  AdListPage:74 - By.xpath: //input[@placeholder='İlçe Ara'] elementine Çankaya yazıldı.
+2020-11-23 21:18:59 INFO  AdListPage:59 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementi bulundu.
+2020-11-23 21:18:59 INFO  AdListPage:104 - By.xpath: //li[@class='he-multiselect__list-item']/span[contains(text(),'Çankaya')] elementine JS ile tıklandı.
+2020-11-23 21:19:00 INFO  AdListPage:59 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementi bulundu.
+2020-11-23 21:19:00 INFO  AdListPage:104 - By.xpath: //li[@class='grid-50']/div[@class='md-radio']/label[contains(text(),'Konut')] elementine JS ile tıklandı.
+2020-11-23 21:19:02 INFO  AdListPage:59 - By.xpath: //div[@class='c-title' and contains(text(),'Oda Seçiniz')] elementi bulundu.
+2020-11-23 21:19:02 INFO  AdListPage:104 - By.xpath: //div[@class='c-title' and contains(text(),'Oda Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:19:03 INFO  AdListPage:59 - By.xpath: //div[@class='c-title' and contains(text(),'Oda Seçiniz')] elementi bulundu.
+2020-11-23 21:19:03 INFO  AdListPage:104 - By.xpath: //div[@class='c-title' and contains(text(),'Oda Seçiniz')] elementine JS ile tıklandı.
+2020-11-23 21:19:03 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'2+1')] elementi bulundu.
+2020-11-23 21:19:03 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'2+1')] elementine JS ile tıklandı.
+2020-11-23 21:19:04 INFO  AdListPage:59 - By.xpath: //section[contains(@class,'withinSiteSec')]/label elementi bulundu.
+2020-11-23 21:19:04 INFO  AdListPage:104 - By.xpath: //section[contains(@class,'withinSiteSec')]/label elementine JS ile tıklandı.
+2020-11-23 21:19:04 INFO  AdListPage:59 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'2+1')] elementi bulundu.
+2020-11-23 21:19:04 INFO  AdListPage:104 - By.xpath: //label[@class='md-checkbox']//span[contains(text(),'2+1')] elementine JS ile tıklandı.
+2020-11-23 21:19:04 INFO  AdListPage:59 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementi bulundu.
+2020-11-23 21:19:05 INFO  AdListPage:104 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementine JS ile tıklandı.
+2020-11-23 21:19:05 INFO  AdListPage:59 - By.xpath: //section[contains(@class,'withinSiteSec')]/label elementi bulundu.
+2020-11-23 21:19:05 INFO  AdListPage:104 - By.xpath: //section[contains(@class,'withinSiteSec')]/label elementine JS ile tıklandı.
+2020-11-23 21:19:05 INFO  AdListPage:59 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementi bulundu.
+2020-11-23 21:19:05 INFO  AdListPage:104 - By.xpath: //section[@class='filter-button-wrapper']/a[1] elementine JS ile tıklandı.
+2020-11-23 21:19:08 INFO  AdListPage:59 - By.xpath: //div[@id='57012-5449block0']//a[@class='card-link'] elementi bulundu.
+2020-11-23 21:19:08 INFO  AdListPage:104 - By.xpath: //div[@id='57012-5449block0']//a[@class='card-link'] elementine JS ile tıklandı.
+2020-11-23 21:19:09 INFO  AdListPage:59 - By.xpath: //div[@id='57012-5449block0']//a[@class='card-link'] elementi bulundu.
+2020-11-23 21:19:09 INFO  AdListPage:104 - By.xpath: //div[@id='57012-5449block0']//a[@class='card-link'] elementine JS ile tıklandı.
+2020-11-23 21:19:10 INFO  AdListPage:59 - By.xpath: //button[contains(@class,'owner-phone-numbers-button')]/span[contains(text(),'Telefon')] elementi bulundu.
+2020-11-23 21:19:10 INFO  AdListPage:104 - By.xpath: //button[contains(@class,'owner-phone-numbers-button')]/span[contains(text(),'Telefon')] elementine JS ile tıklandı.
+2020-11-23 21:19:11 INFO  AdListPage:59 - By.xpath: //button[contains(@class,'owner-phone-numbers-button')]/span[contains(text(),'Telefon')] elementi bulundu.
+2020-11-23 21:19:11 INFO  AdListPage:104 - By.xpath: //button[contains(@class,'owner-phone-numbers-button')]/span[contains(text(),'Telefon')] elementine JS ile tıklandı.
+2020-11-23 21:19:46 INFO  MobileHomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:19:46 INFO  MobileHomePage:65 - By.xpath: //button[contains(text(),'Kapat')] elementleri bulundu.
+2020-11-23 21:19:46 INFO  MobileHomePage:126 - By.xpath: //button[contains(text(),'Kapat')] elementi var.
+2020-11-23 21:19:48 INFO  MobileHomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:19:48 INFO  MobileHomePage:65 - By.xpath: //button[contains(text(),'Kapat')] elementleri bulundu.
+2020-11-23 21:19:48 INFO  MobileHomePage:126 - By.xpath: //button[contains(text(),'Kapat')] elementi var.
+2020-11-23 21:19:51 INFO  MobileHomePage:59 - By.xpath: //button[contains(text(),'Kapat')] elementi bulundu.
+2020-11-23 21:19:51 INFO  MobileHomePage:104 - By.xpath: //button[contains(text(),'Kapat')] elementine JS ile tıklandı.
+2020-11-23 21:19:51 INFO  MobileHomePage:59 - By.xpath: //button[contains(text(),'Kapat')] elementi bulundu.
+2020-11-23 21:19:51 INFO  MobileHomePage:104 - By.xpath: //button[contains(text(),'Kapat')] elementine JS ile tıklandı.
+2020-11-23 21:19:51 INFO  MobileHomePage:96 - By.xpath: //div[@class='left-side']//span[text()='Kiralık'] elementine tıklandı.
+2020-11-23 21:19:52 INFO  MobileHomePage:96 - By.xpath: //div[@class='left-side']//span[contains(text(),'Satılık')] elementine tıklandı.
+2020-11-23 21:19:55 INFO  MobileHomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:19:55 INFO  MobileHomePage:65 - By.xpath: //button[contains(text(),'Kapat')] elementleri bulundu.
+2020-11-23 21:19:55 INFO  MobileHomePage:126 - By.xpath: //button[contains(text(),'Kapat')] elementi var.
+2020-11-23 21:19:55 INFO  MobileHomePage:59 - By.xpath: //button[contains(text(),'Kapat')] elementi bulundu.
+2020-11-23 21:19:55 INFO  MobileHomePage:104 - By.xpath: //button[contains(text(),'Kapat')] elementine JS ile tıklandı.
+2020-11-23 21:19:56 INFO  MobileHomePage:39 - https://www.hurriyetemlak.com adresine gidiliyor.
+2020-11-23 21:19:56 INFO  MobileHomePage:65 - By.xpath: //button[contains(text(),'Kapat')] elementleri bulundu.
+2020-11-23 21:19:56 INFO  MobileHomePage:126 - By.xpath: //button[contains(text(),'Kapat')] elementi var.
+2020-11-23 21:19:56 INFO  MobileHomePage:96 - By.xpath: //div[@class='left-side']//span[text()='Kiralık'] elementine tıklandı.
+2020-11-23 21:19:56 INFO  MobileHomePage:59 - By.xpath: //button[contains(text(),'Kapat')] elementi bulundu.
+2020-11-23 21:19:56 INFO  MobileHomePage:104 - By.xpath: //button[contains(text(),'Kapat')] elementine JS ile tıklandı.
+2020-11-23 21:19:56 INFO  MobileAdListPage:59 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementi bulundu.
+2020-11-23 21:19:56 INFO  MobileAdListPage:59 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementi bulundu.
+2020-11-23 21:19:56 INFO  MobileAdListPage:104 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementine JS ile tıklandı.
+2020-11-23 21:19:56 INFO  MobileHomePage:96 - By.xpath: //div[@class='left-side']//span[contains(text(),'Satılık')] elementine tıklandı.
+2020-11-23 21:19:57 INFO  MobileAdListPage:59 - By.xpath: //div[@class='city']/select elementi bulundu.
+2020-11-23 21:19:57 INFO  MobileAdListPage:104 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementine JS ile tıklandı.
+2020-11-23 21:19:57 INFO  MobileAdListPage:59 - By.xpath: //div[@class='city']/select elementi bulundu.
+2020-11-23 21:19:58 INFO  MobileAdListPage:59 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementi bulundu.
+2020-11-23 21:19:58 INFO  MobileAdListPage:104 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementine JS ile tıklandı.
+2020-11-23 21:19:59 INFO  MobileAdListPage:59 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementi bulundu.
+2020-11-23 21:19:59 INFO  MobileAdListPage:104 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementine JS ile tıklandı.
+2020-11-23 21:20:00 INFO  MobileAdListPage:59 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Bornova')] elementi bulundu.
+2020-11-23 21:20:00 INFO  MobileAdListPage:104 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Bornova')] elementine JS ile tıklandı.
+2020-11-23 21:20:00 INFO  MobileAdListPage:59 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Çankaya')] elementi bulundu.
+2020-11-23 21:20:00 INFO  MobileAdListPage:104 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Çankaya')] elementine JS ile tıklandı.
+2020-11-23 21:20:00 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:00 INFO  MobileAdListPage:59 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementi bulundu.
+2020-11-23 21:20:00 INFO  MobileAdListPage:59 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementi bulundu.
+2020-11-23 21:20:00 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:00 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:00 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:00 INFO  MobileAdListPage:59 - By.xpath: //li/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementi bulundu.
+2020-11-23 21:20:00 INFO  MobileAdListPage:104 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementine JS ile tıklandı.
+2020-11-23 21:20:01 INFO  MobileAdListPage:59 - By.xpath: //div[@class='city']/select elementi bulundu.
+2020-11-23 21:20:01 INFO  MobileAdListPage:104 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementine JS ile tıklandı.
+2020-11-23 21:20:01 INFO  MobileAdListPage:104 - By.xpath: //li/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementine JS ile tıklandı.
+2020-11-23 21:20:01 INFO  MobileAdListPage:59 - By.xpath: //div[@class='city']/select elementi bulundu.
+2020-11-23 21:20:01 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementi bulundu.
+2020-11-23 21:20:01 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementine JS ile tıklandı.
+2020-11-23 21:20:01 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'room-type')]/section/div elementi bulundu.
+2020-11-23 21:20:02 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'room-type')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:02 INFO  MobileAdListPage:59 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementi bulundu.
+2020-11-23 21:20:02 INFO  MobileAdListPage:104 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementine JS ile tıklandı.
+2020-11-23 21:20:02 INFO  MobileAdListPage:59 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Çankaya')] elementi bulundu.
+2020-11-23 21:20:02 INFO  MobileAdListPage:104 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Çankaya')] elementine JS ile tıklandı.
+2020-11-23 21:20:02 INFO  MobileAdListPage:59 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementi bulundu.
+2020-11-23 21:20:02 INFO  MobileAdListPage:104 - By.xpath: //div[@class='custom-select']/span[contains(text(),'İlçe')] elementine JS ile tıklandı.
+2020-11-23 21:20:02 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:02 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:02 INFO  MobileAdListPage:59 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Bornova')] elementi bulundu.
+2020-11-23 21:20:02 INFO  MobileAdListPage:104 - By.xpath: //div[@class='district-list-dialog']//span[contains(text(),'Bornova')] elementine JS ile tıklandı.
+2020-11-23 21:20:02 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:02 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-district']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:02 INFO  MobileAdListPage:59 - By.xpath: //li/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementi bulundu.
+2020-11-23 21:20:03 INFO  MobileAdListPage:104 - By.xpath: //li/div[@class='md-radio']/label[contains(text(),'İşyeri')] elementine JS ile tıklandı.
+2020-11-23 21:20:03 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementi bulundu.
+2020-11-23 21:20:03 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementine JS ile tıklandı.
+2020-11-23 21:20:03 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'2+1')] elementi bulundu.
+2020-11-23 21:20:03 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'2+1')] elementine JS ile tıklandı.
+2020-11-23 21:20:03 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:03 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:03 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'room-type')]/section/div elementi bulundu.
+2020-11-23 21:20:03 INFO  MobileAdListPage:74 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementine 100.000 yazıldı.
+2020-11-23 21:20:03 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'room-type')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:03 INFO  MobileAdListPage:59 - By.xpath: //span[@class='title-right' and contains(text(),'Site')] elementi bulundu.
+2020-11-23 21:20:03 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:03 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine JS ile tıklandı.
+2020-11-23 21:20:04 INFO  MobileAdListPage:104 - By.xpath: //span[@class='title-right' and contains(text(),'Site')] elementine JS ile tıklandı.
+2020-11-23 21:20:04 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:04 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine JS ile tıklandı.
+2020-11-23 21:20:04 INFO  MobileAdListPage:59 - By.xpath: //button[contains(@class,'get-result')] elementi bulundu.
+2020-11-23 21:20:04 INFO  MobileAdListPage:104 - By.xpath: //button[contains(@class,'get-result')] elementine JS ile tıklandı.
+2020-11-23 21:20:04 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'2+1')] elementi bulundu.
+2020-11-23 21:20:04 INFO  MobileAdListPage:74 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementine 100.000 yazıldı.
+2020-11-23 21:20:04 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'2+1')] elementine JS ile tıklandı.
+2020-11-23 21:20:05 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:05 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:05 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine JS ile tıklandı.
+2020-11-23 21:20:05 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:05 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:05 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine JS ile tıklandı.
+2020-11-23 21:20:05 INFO  MobileAdListPage:59 - By.xpath: //span[@class='title-right' and contains(text(),'Site')] elementi bulundu.
+2020-11-23 21:20:05 INFO  MobileAdListPage:104 - By.xpath: //span[@class='title-right' and contains(text(),'Site')] elementine JS ile tıklandı.
+2020-11-23 21:20:05 INFO  MobileAdListPage:59 - By.xpath: //button[contains(@class,'get-result')] elementi bulundu.
+2020-11-23 21:20:05 INFO  MobileAdListPage:104 - By.xpath: //button[contains(@class,'get-result')] elementine JS ile tıklandı.
+2020-11-23 21:20:06 INFO  MobileAdListPage:74 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine 2.000.000 yazıldı.
+2020-11-23 21:20:06 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:06 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:74 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine 2.000.000 yazıldı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:104 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'Sıfır Bina')] elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'Sıfır Bina')] elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'Sıfır Bina')] elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'Sıfır Bina')] elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //div[@class='reality-single-card'][1]//div[contains(@class,'swiper-slide-active')]/img elementi bulundu.
+2020-11-23 21:20:07 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //div[@class='reality-single-card'][1]//div[contains(@class,'swiper-slide-active')]/img elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'1-5')] elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'1-5')] elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //div[@class='reality-single-card'][1]//div[contains(@class,'swiper-slide-active')]/img elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //div[@class='reality-single-card'][1]//div[contains(@class,'swiper-slide-active')]/img elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'1-5')] elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'1-5')] elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'6-10')] elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'6-10')] elementine JS ile tıklandı.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:08 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:09 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:09 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:09 INFO  MobileAdListPage:59 - By.xpath: //button[contains(@class,'get-result')] elementi bulundu.
+2020-11-23 21:20:09 INFO  MobileAdListPage:104 - By.xpath: //button[contains(@class,'get-result')] elementine JS ile tıklandı.
+2020-11-23 21:20:09 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:09 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:09 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'6-10')] elementi bulundu.
+2020-11-23 21:20:09 INFO  MobileAdListPage:104 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li//span[contains(text(),'6-10')] elementine JS ile tıklandı.
+2020-11-23 21:20:10 INFO  MobileAdListPage:59 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementi bulundu.
+2020-11-23 21:20:10 INFO  MobileAdListPage:59 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner'] elementi bulundu.
+2020-11-23 21:20:10 INFO  MobileAdListPage:104 - By.xpath: //div[@id='dropdown-lightbox-filter']//button[contains(@class,'filter-close')] elementine JS ile tıklandı.
+2020-11-23 21:20:10 INFO  MobileAdListPage:59 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner'] elementi bulundu.
+2020-11-23 21:20:10 INFO  MobileAdListPage:59 - By.xpath: //button[contains(@class,'get-result')] elementi bulundu.
+2020-11-23 21:20:10 INFO  MobileAdListPage:104 - By.xpath: //button[contains(@class,'get-result')] elementine JS ile tıklandı.
+2020-11-23 21:20:12 INFO  MobileAdListPage:59 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementi bulundu.
+2020-11-23 21:20:13 INFO  MobileAdListPage:59 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner']/span[1] elementi bulundu.
+2020-11-23 21:20:13 INFO  MobileAdListPage:104 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner']/span[1] elementine JS ile tıklandı.
+2020-11-23 21:20:13 INFO  MobileAdListPage:104 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementine JS ile tıklandı.
+2020-11-23 21:20:14 INFO  MobileAdListPage:59 - By.xpath: //li/div[@class='md-radio']/input[@id='main-category1'] elementi bulundu.
+2020-11-23 21:20:14 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementi bulundu.
+2020-11-23 21:20:14 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:14 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:14 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:14 INFO  MobileAdListPage:59 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner'] elementi bulundu.
+2020-11-23 21:20:14 INFO  MobileAdListPage:59 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner'] elementi bulundu.
+2020-11-23 21:20:14 INFO  MobileAdListPage:59 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner']/span[1] elementi bulundu.
+2020-11-23 21:20:15 INFO  MobileAdListPage:59 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementi bulundu.
+2020-11-23 21:20:15 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li[1]//input elementi bulundu.
+2020-11-23 21:20:15 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li[2]//input elementi bulundu.
+2020-11-23 21:20:15 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li[3]//input elementi bulundu.
+2020-11-23 21:20:15 INFO  MobileAdListPage:104 - By.xpath: //button[@class='btn btn-white']//span[contains(text(),'Filtrele')] elementine JS ile tıklandı.
+2020-11-23 21:20:16 INFO  MobileAdListPage:59 - By.xpath: //li/div[@class='md-radio']/input[@id='main-category1'] elementi bulundu.
+2020-11-23 21:20:16 INFO  MobileAdListPage:104 - By.xpath: //div[@class='call-owner sticky-owner-call']//a[@id='call-owner']/span[1] elementine JS ile tıklandı.
+2020-11-23 21:20:16 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][1]//input elementi bulundu.
+2020-11-23 21:20:16 INFO  MobileAdListPage:59 - By.xpath: //section[@class='price']//div[contains(@class,'floating-label')][2]//input elementi bulundu.
+2020-11-23 21:20:16 INFO  MobileAdListPage:59 - By.xpath: //section[contains(@class,'building-age')]/section/div elementi bulundu.
+2020-11-23 21:20:16 INFO  MobileAdListPage:104 - By.xpath: //section[contains(@class,'building-age')]/section/div elementine JS ile tıklandı.
+2020-11-23 21:20:17 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li[1]//input elementi bulundu.
+2020-11-23 21:20:17 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li[2]//input elementi bulundu.
+2020-11-23 21:20:17 INFO  MobileAdListPage:59 - By.xpath: //div[contains(@id,'dropdown-lightbox-filter')]//li[3]//input elementi bulundu.

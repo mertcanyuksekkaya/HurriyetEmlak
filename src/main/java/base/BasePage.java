@@ -100,7 +100,6 @@ public class BasePage {
         waitForLoad();
         waitVisibility(by);
         WebElement element =find(by);
-        waitVisibility(by);
         jsExec.executeScript("arguments[0].click();", element);
         log.info(by+" elementine JS ile tıklandı.");
     }
